@@ -12,7 +12,7 @@ export const TESTNET_PACKAGE_ID =
 
 // ✅ Your created Testnet Portfolio Object ID
 export const TESTNET_PORTFOLIO_ID =
-  "0x6d0fa52636d0920018732fb1c2dff3bccd2b8f41e594cc5665c172599094774a";
+  "0xb52b2c6d0723370716de1665d57c6d6bd5b0a8847a7cda52509eed2687848e81";
 
 export const MAINNET_PACKAGE_ID = "0x0";
 export const MAINNET_PORTFOLIO_ID =
