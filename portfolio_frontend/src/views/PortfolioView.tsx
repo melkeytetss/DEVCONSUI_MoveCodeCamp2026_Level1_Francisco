@@ -72,7 +72,7 @@ const defaultPortfolioData = {
   course: "BS in Information Technology",
   school: "FEU Institute of Technology",
   about:
-    "I am a fourth-year IT student and freelance designer who integrates technical troubleshooting with creative insight to deliver innovative, efficient solutions.",
+    "I'm a third-year IT student, a full stack developer, and a prompt engineer - still learning, always curious, and building projects that push me further. I believe the best developers never stop being students.",
   skills: [
     "Graphic Design",
     "UI / UX Design",
